@@ -27,7 +27,7 @@ import javax.swing.JTextArea;
  * @author lyes
  */
 public class FenetreJeu extends JFrame {
-     //variable echiuier
+   
     public Echiquier echiquier;
     final public JLabel[][] labels = new JLabel[8][8];
     //panel stockant l'echiuier
